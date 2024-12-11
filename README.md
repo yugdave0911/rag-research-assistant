@@ -40,3 +40,4 @@ Language Models (LLMs):
 	3. Fine-Tuned Qwen-1.5B:
 	  *  A domain-adapted version of the Qwen-1.5B model.
 	  *  Fine-tuned on a custom dataset of scientific paper queries and responses.
+To run the system, run all blocks of code in the NLP_RAG_Research_Assistant notebook. This will generate a Gradio UI and you will be able to interact with the LLM
